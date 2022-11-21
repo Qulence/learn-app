@@ -1,0 +1,5 @@
+/frontend/node_modules/
+/frontend/target/
+/selenium/target/
+/frontend/build/
+/frontend/package-lock.json
